@@ -1,0 +1,22 @@
+[
+  
+  {
+    "title": "Chirpy Theme로 Jekyll 블로그 시작하기",
+    "url": "/posts/TEST2/",
+    "categories": "Programming, Blogging",
+    "tags": "jekyll, chirpy, blog",
+    "date": "2026-01-21 10:10:00 +0900",
+    "content": "블로그 포스팅 테스트"
+  },
+  
+  {
+    "title": "Chirpy Theme로 Jekyll 블로그 시작하기",
+    "url": "/posts/TEST/",
+    "categories": "Programming, Blogging",
+    "tags": "jekyll, chirpy, blog",
+    "date": "2026-01-21 10:00:00 +0900",
+    "content": ""
+  }
+  
+]
+
